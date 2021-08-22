@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="clearButton">C</string>
+    <string name="paranthesisOpenButton">(</string>
+    <string name="paranthesisCloseButton">)</string>
+    <string name="divideButton">÷</string>
+    <string name="sevenButton">7</string>
+    <string name="eightButton">8</string>
+    <string name="nineButton">9</string>
+    <string name="multiplyButton">×</string>
+    <string name="fourButton">4</string>
+    <string name="fiveButton">5</string>
+    <string name="sixButton">6</string>
+    <string name="subtractButton">-</string>
+    <string name="oneButton">1</string>
+    <string name="twoButton">2</string>
+    <string name="threeButton">3</string>
+    <string name="addButton">+</string>
+    <string name="zeroButton">0</string>
+    <string name="dotButton">.</string>
+    <string name="equalsButton">=</string>
+    <string name="enter_a_value">Enter a value</string>
+    <string name="backspace"></string>
+
+    <string name="trigSinButton">sin</string>
+    <string name="trigCosButton">cos</string>
+    <string name="trigTanButton">tan</string>
+    <string name="trigArcSinButton">sin<sup><small>-1</small></sup></string>
+    <string name="trigArcCosButton">cos<sup><small>-1</small></sup></string>
+    <string name="trigArcTanButton">tan<sup><small>-1</small></sup></string>
+    <string name="naturalLogButton">ln</string>
+    <string name="LogButton">log</string>
+    <string name="squareRootButton">√</string>
+    <string name="absoluteValueButton">|x|</string>
+    <string name="piButton">π</string>
+    <string name="eButton">e</string>
+    <string name="xSquaredButton">x<sup><small>2</small></sup></string>
+    <string name="xPowerYButton">x<sup><small>y</small></sup></string>
+    <string name="deg_button">deg</string>
+    <string name="sec_button">sec</string>
+    <string name="cosec_button">cosec</string>
+    <string name="cot_button">cot</string>
+</resources>
